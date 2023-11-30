@@ -24,7 +24,7 @@ function setJoao (m){
 }
 
 function setMaria (m){
-    joao = m;
+    maria = m;
 }
 
 export {deJoaoParaMaria, deMariaParaJoao, getJoao, getMaria, setJoao, setMaria};
